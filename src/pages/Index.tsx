@@ -90,7 +90,7 @@ const Index = () => {
                 <p className="font-playfair text-lg sm:text-xl font-semibold text-foreground">
                   19.04.2026
                 </p>
-                <p className="font-body text-sm text-muted-foreground">8:30</p>
+                <p className="font-body text-sm text-muted-foreground">10:30</p>
               </div>
               <div className="w-px bg-border" />
               <div className="flex-1 space-y-1.5">
